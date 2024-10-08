@@ -174,7 +174,7 @@ Overview: Craigslist is a advertising company that operates an advertisement web
     
 From this I think I should focus more on making the app more navigable with the goal of making users focus on the task at hand, which is either shopping or selling listings. 
 
-**Onboarding Procress:**
+**Onboarding Process:**
 1. These are my opening onboarding screens where you can make your account or log in. I wanted it to be very simplistic but also easy to understand, thus I assigned big letterings to greet users and a purple color assigned to buttons so that users would understand what is interactive and what isn’t. 
 2. After the initial logging in, users are then lead to a 4-step how-to screen. 
 3. Easier Navigation : Making buying/selling easier by adding: Category pills; Component cards for products; A clear hierarchy in the bottom tab bar; Clear color hierarchy
@@ -245,15 +245,15 @@ Designing a booklet that explores the organization and system of typography in m
 Overview: Design a booklet that conveys the pricniples of typography while also communicating the topic at hand.
 
 **My Goals:**
-- My primary goal throughout this project was to create a strong sense of urgency that would resonate with viewers. Given that the topics we were tasked with focused on critical climate change issues, I wanted to ensure the messaging felt powerful and immediate. To achieve this, I concentrated on making the typography bold and visually impactful, transforming simple, basic type into something that could command attention. By doing so, I aimed to draw viewers’ eyes directly to the key statements, emphasizing the gravity of the issue at hand. The visual intensity of the text was meant to not only capture attention but also provoke a call to action, reinforcing the urgency of addressing climate change.
+- My primary goal throughout this project was to create a strong sense of urgency that would resonate with viewers. Given that the topics we were tasked with focused on critical climate change issues, I wanted to ensure the messaging felt powerful and immediate. To achieve this, I concentrated on making the typography bold and visually impactful, transforming simple, basic types into something that could command attention. By doing so, I aimed to draw viewers’ eyes directly to the key statements, emphasizing the gravity of the issue at hand. The visual intensity of the text was meant to not only capture attention but also provoke a call to action, reinforcing the urgency of addressing climate change.
 
 **Problems I Encountered:**
-- When in my first stages of designing the booklet, I had problems with emphasizing the text and its sense of urgency. However, through my professor's advice, by adding pull quotes from the text and using the repitition of bold punctuation, I was able to highlight the climate issue's importance. 
+- When in my first stages of designing the booklet, I had problems with emphasizing the text and its sense of urgency. However, through my professor's advice, by adding pull quotes from the text and using the repetition of bold punctuation, I was able to highlight the climate issue's importance. 
 
 **Reflections:**
-- What I Learned: From this project, I was able to further understand the typographical mechanics and design principles. In that sense, I was also able to understand and experiment with a creative range of typographical systems, while also builing a strong awareness of the context at hand in order to build my own design concept through typography.
+- What I Learned: From this project, I was able to further understand the typographical mechanics and design principles. In that sense, I was also able to understand and experiment with a creative range of typographical systems, while also building a strong awareness of the context at hand in order to build my own design concept through typography.
 - Changes?: I'm satisfied with the design placement and visuals of the booklet. I believe I wouldn't want any changes, rather I think additional pages or spreads would have been enjoyable to design. 
-- All-in-all, I am satisfied with the end booklet. Advocating climate change issues to me is a side passion that I am always eager to learn or talk about. Thus, in a sense this project allowed me to learn more about its issues, how to project them to viewers, and how it could and should be applied to my study.
+- All-in-all, I am satisfied with the end booklet. Advocating for climate change issues to me is a side passion that I am always eager to learn or talk about. Thus, in a sense this project allowed me to learn more about its issues, how to project them to viewers, and how it could and should be applied to my study.
 
 ## Coming Soon
 **Branding Project Coming Soon**
