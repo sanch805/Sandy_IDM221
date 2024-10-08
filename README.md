@@ -244,13 +244,13 @@ Designing a booklet that explores the organization and system of typography in m
 
 Overview: Design a booklet that conveys the pricniples of typography while also communicating the topic at hand.
 
-My Goals: 
+**My Goals:**
 - My primary goal throughout this project was to create a strong sense of urgency that would resonate with viewers. Given that the topics we were tasked with focused on critical climate change issues, I wanted to ensure the messaging felt powerful and immediate. To achieve this, I concentrated on making the typography bold and visually impactful, transforming simple, basic type into something that could command attention. By doing so, I aimed to draw viewers’ eyes directly to the key statements, emphasizing the gravity of the issue at hand. The visual intensity of the text was meant to not only capture attention but also provoke a call to action, reinforcing the urgency of addressing climate change.
 
-Problems I Encountered: 
+**Problems I Encountered:**
 - When in my first stages of designing the booklet, I had problems with emphasizing the text and its sense of urgency. However, through my professor's advice, by adding pull quotes from the text and using the repitition of bold punctuation, I was able to highlight the climate issue's importance. 
 
-Reflections: 
+**Reflections:**
 - What I Learned: From this project, I was able to further understand the typographical mechanics and design principles. In that sense, I was also able to understand and experiment with a creative range of typographical systems, while also builing a strong awareness of the context at hand in order to build my own design concept through typography.
 - Changes?: I'm satisfied with the design placement and visuals of the booklet. I believe I wouldn't want any changes, rather I think additional pages or spreads would have been enjoyable to design. 
 - All-in-all, I am satisfied with the end booklet. Advocating climate change issues to me is a side passion that I am always eager to learn or talk about. Thus, in a sense this project allowed me to learn more about its issues, how to project them to viewers, and how it could and should be applied to my study.
