@@ -134,7 +134,8 @@ Strengthen navigation features and checkout system for IKEA’s mobile app
 Overview: IKEA is a multinational company that designs and sells ready-to-assemble furniture, kitchen appliances, and home accessories, among other goods and services. Known for its modernist designs and eco-friendly products, IKEA operates a vast network of stores worldwide, offering customers affordable and functional solutions for home living. 
 
 **The Problem:** <!--finish this-->
-- 
+- **Graphic Design Aspect:**  
+- **UI/UX Aspect:**  
 
 **The Goal:**
 - My primary goal when redesigning was to enhance the visual organization of the app and reduce some of its clutter. My objective was to optimize the content layout to create a more user-friendly environment, ensuring that users can navigate through the app effortlessly. 
@@ -200,7 +201,8 @@ Redesigning the logo and rebranding for Persephone Books; creating a responsive 
 Overview: Persephone Books is a UK-based publishing house and bookstore that reprints neglected fiction and non-fiction, mostly by women writers and mostly dating from the mid-twentieth century. The founder of Persephone Books, Nicola Beauman started their journey in 1999.
 
 **The Problem:**
-- UI/UX Aspect: While what they have functioned properly, I wanted to redesign the Persephone Books experience to fit in visually with modern design. Regarding Persephone Books’ current website, my problem with their site is that the contents are cluttered and repetitive, which can contribute to a potentially overwhelming experience for users. Additionally, in both their website and mobile versions, their information hierarchy is really messy, so I wanted to clear that up a bit so that users can have an easier time navigating both platforms. 
+- **Graphic Design Aspect:** Persephone Books’ original logo is very simple — it’s a simple image of Persephone — but it didn’t seem like a logo that could be seen as their mark. 
+- **UI/UX Aspect:** While what they have functioned properly, I wanted to redesign the Persephone Books experience to fit in visually with modern design. Regarding Persephone Books’ current website, my problem with their site is that the contents are cluttered and repetitive, which can contribute to a potentially overwhelming experience for users. Additionally, in both their website and mobile versions, their information hierarchy is really messy, so I wanted to clear that up a bit so that users can have an easier time navigating both platforms. 
 
 **My Goal:**
 - My goal when redesigning their logo and brand identity was to create something simple and mark-like. The reference and limit I set myself too was to make a logo that I could see on a book spine. At first, I wanted to work with combining Persephone and books — a literal meaning of their house name — but later decided to keep it to just Persephone, somewhat like their original logo. My primary goal when redesigning their website was to enhance the visual design of the app, reduce some of its clutter, and reorganize the information hierarchy. My aim was to enhance the placement of content to establish a user-friendly environment, ensuring effortless navigation for app and site users. To achieve this, I focused on removing some of their repetitive contents and categories, and instead grouping them into broader sectors. The updated layout intends to simplify information delivery, enhancing user experience by keeping a visually pleasing display. By refining the app and site’s visual hierarchy and content structure, I am confident that the proposed redesign can greatly enhance overall user satisfaction.
