@@ -1,7 +1,7 @@
 # Sandy's Portfolio
 ## Home
 Hey! I’m Sandy, a junior graphic & UI/UX designer 
-Transforming imagination to design, one graphic at a time
+<br/>Transforming imagination to design, one graphic at a time
 - Onboarding Flow (Craigslist App and Website Redesign) - Redesigning their system for better navigation and flow 
     - Figma, Canva, Optimal Workshop
 - Brand & Web Redesign (Persephone Books) - Redesigning their logo and brand; redesigning their website 
@@ -133,9 +133,9 @@ Strengthen navigation features and checkout system for IKEA’s mobile app
 
 Overview: IKEA is a multinational company that designs and sells ready-to-assemble furniture, kitchen appliances, and home accessories, among other goods and services. Known for its modernist designs and eco-friendly products, IKEA operates a vast network of stores worldwide, offering customers affordable and functional solutions for home living. 
 
-**The Problem:** <!--finish this-->
-- **Graphic Design Aspect:**  
-- **UI/UX Aspect:**  
+**The Problem:** 
+- **Graphic Design Aspect:** Regarding the IKEA mobile app, my problem with the app is that its screens and contents are lengthy and cluttered. The overall visual design of the IKEA mobile app feels overwhelming due to the amount of content presented on each screen. The lack of effective whitespace and the dense arrangement of text and images contributes to a cluttered appearance, making it hard for users to focus on key elements.
+- **UI/UX Aspect:** From a user experience perspective, the IKEA mobile app feels unnecessarily complicated due to lengthy screens and an excess of information being crammed into each view. Additionally, the content is not optimally organized, resulting in difficulty locating specific items or information. These factors can led to a potentially overwhelming experience for users.
 
 **The Goal:**
 - My primary goal when redesigning was to enhance the visual organization of the app and reduce some of its clutter. My objective was to optimize the content layout to create a more user-friendly environment, ensuring that users can navigate through the app effortlessly. 
@@ -145,8 +145,7 @@ To achieve this, I focused on removing some categories and information that were
 **Reflections:**
 - What I Learned: Being able to spend so much time with Figma, this project and other projects included, made me really comfortable with its features, and in turn, helped me with refining and creating this IKEA redesign. I’m glad that along with creating a process timeline and being able to make our own schedules to hone our independence skills, I was able to have some fun and play more with the animation features of Figma. It was also in this project that I was able to fully understand what components and auto-layouts are meant for and their potential.
 - Changes?: I would change the way my Lo-Fis and sketches look. I know that since they’re a part of the process and brainstorming stage, they aren’t as important but this change is just a personal thing I think I should do better with. I also think that towards the end I ended up having to fix a lot of small details like the spacing, so I think next time, I’ll set up the spacing first so that I won’t have to do it all over again at the end. 
-- All in all, ... <!--finish this-->
-
+- All-in-all, this project has taught me many things like smoothen my design process and making me feel more confident with the advanced features of Figma. Other than this, I also had the chance to explore Figma's animation capabilities, which added an engaging, dynamic element to the project. Overall, this redesign project helped me realize the importance of balancing creativity with structured design processes, ensuring that every detail—whether visual or functional—aligns with user-centered principles. 
 
 ## Craigslist
 **Onboarding Flow**
@@ -215,31 +214,33 @@ Overview: Persephone Books is a UK-based publishing house and bookstore that rep
 ## SALT Editorial
 **The Health Benefits of Coffee**
 
-Designing
+Designing editorial spreads for a magazine through content development, masthead and cover development and refinement. 
 <br/>
-<br/> Role:
+<br/> Role: Sophmore Graphic Designer
 <br/> Timeline: 10 weeks
-<br/> Tools: 
+<br/> Tools: InDesign, Illustrator, Photoshop
 
-Overview:
+Overview: With a randomized publication name and article, this project allowed us to experiment and experience the process of makingand designing a magazine editorial.
 
-**My Goals:**
+**My Goals:** 
+- After getting my publication name and article which both focused on the food industry, I decided to make my editorial food and wellness focused. My goal throughout this project was to learn how I could work with type and its layout on spreads. While doing this, I wanted to design an editorial that would catch viewers' eyes and be a product that could easily communicate its content and make viewers' want to revisit the issue/publication. 
 
-**Problems I Encountered:**
+**Problems I Encountered:** 
+- The first couple weeks were rough, as I didn't really have a specific direction in which I wanted my publication to head in. Through the class, I experimented with physical collaging and basic type placements, and by week 6-7 of the class, I was getting a grasp on the path I was going in. 
 
 **Reflections:**
-- What I Learned:
-- Changes?:
-- Overall, ...
+- What I Learned: This project and class heavily inflenced me and taught me a lot on typographic variations and how, with the right balance, it can work well with images, elements, and with the spread itself. Other than this, I was also able to reflect on the fact that when stuck, it always helps to turn to a different medium or method. 
+- Changes?: If I could, I think I would've liked to add more pages to my publication. I feel the article I received was a bit short and with a couple more pages, I would've able to explore/experience more typographic variations and visual language. This and I would've liked to try making a publication with my own media. 
+- Overall, I believe I learned a great deal through this project. On top of this, I am greatly satisfied with the end result of my publication and how it turned out. I believe that while not without flaws, I was able to achieve the goals I had set for myself in the beginning of this project and class. 
 
 ## Environmental Type
 **Ocean Pollution & Marine Debris**
 
-Designing
+Designing 
 <br/>
-<br/> Role:
-<br/> Timeline: 
-<br/> Tools: 
+<br/> Role: Sophmore Graphic Designer
+<br/> Timeline: 6 weeks
+<br/> Tools: InDesign, Illustrator
 
 Overview:
 
