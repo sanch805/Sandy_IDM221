@@ -140,7 +140,7 @@ Overview: IKEA is a multinational company that designs and sells ready-to-assemb
 **The Goal:**
 - My primary goal when redesigning was to enhance the visual organization of the app and reduce some of its clutter. My objective was to optimize the content layout to create a more user-friendly environment, ensuring that users can navigate through the app effortlessly. 
 
-To achieve this, I focused on removing some categories and information that were unnecessary, and instead grouping them into a broader section. The revised layout aims to streamline information, making it easier for users while maintaining a visually appealing and organized presentation. Through some adjustments to the app's visual hierarchy and content structure, I believe the proposed redesign can significantly improve the overall user experience.
+- To achieve this, I focused on removing some categories and information that were unnecessary, and instead grouping them into a broader section. The revised layout aims to streamline information, making it easier for users while maintaining a visually appealing and organized presentation. Through some adjustments to the app's visual hierarchy and content structure, I believe the proposed redesign can significantly improve the overall user experience.
 
 **Reflections:**
 - What I Learned: Being able to spend so much time with Figma, this project and other projects included, made me really comfortable with its features, and in turn, helped me with refining and creating this IKEA redesign. I’m glad that along with creating a process timeline and being able to make our own schedules to hone our independence skills, I was able to have some fun and play more with the animation features of Figma. It was also in this project that I was able to fully understand what components and auto-layouts are meant for and their potential.
@@ -257,3 +257,4 @@ Overview: Design a booklet that conveys the pricniples of typography while also 
 
 ## Coming Soon
 **Branding Project Coming Soon**
+
