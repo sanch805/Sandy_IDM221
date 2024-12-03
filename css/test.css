@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: 'Be Vietnam Pro';
+    src: url('/font/Be_Vietnam_Pro/BeVietnamPro-Medium.ttf') format('truetype');
+    line-height: 1.6;
+}
+
+/* center header */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #ccc;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin:  30px 0 0;
+}
+
+header h4 {
+    font-size: 1rem;
+    margin: 10px 0 0;
+    color: #555;
+}
+
+/* center images */
+main {
+    text-align: left;
+    padding: 20px;
+}
+
+main section {
+    margin-bottom: 60px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 30px auto 10px;
+}
+
+main h3 {
+    font-size: 1.2rem;
+    margin: 50px 20px 20px;
+}
+
+main p {
+    font-size: 0.9rem;
+    color: #333;
+    max-width: 850px;
+    margin: 30px 20px 30px;
+}
+
+main li {
+    font-size: 0.9rem;
+    color: #333;
+    max-width: 850px;
+    margin: 30px 20px 30px;
+}
+
+a {
+    font-size: 0.9rem;
+    color: #242631;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-top: 1px solid #ccc;
+}
+
+footer p {
+    margin: 5px 0;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+footer a {
+    text-decoration: none;
+    color: #c58333;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

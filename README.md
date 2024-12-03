@@ -1,7 +1,5 @@
 # Sandy's Portfolio
 ## Home
-Hey! I’m Sandy, a junior graphic & UI/UX designer 
-<br/>Transforming imagination to design, one graphic at a time
 - Onboarding Flow (Craigslist App and Website Redesign) - Redesigning their system for better navigation and flow 
     - Figma, Canva, Optimal Workshop
 - Brand & Web Redesign (Persephone Books) - Redesigning their logo and brand; redesigning their website 
