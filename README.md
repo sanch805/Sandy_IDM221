@@ -39,71 +39,16 @@ Bachelor of Science in Graphic Design
 Minor User Interface and Experience
 Minor Fine Arts
 <br/>GPA: 3.9
-### Skills
-**Design Programs:**
 
-Figma, Webflow, Procreate, Adobe Illustrator, Adobe Photoshop, Adobe After Effects, Adobe InDesign, HTML, CSS, JS, Canva
-
-### Relevant Coursework
-- Introduction to Graphic Design
-- Typography I & II & III
-- Web Graphics I & II & III
-- Design I & II & III
-- Intermediate Photography
-- User Interface Design I & II
-- Foundations of Business
-### Activities/Organizations
-**Drexel Art Organization (DART) Member**
-<br/>2022 - PRESENT
-
-**AAU Asian Americans United**
-<br/>2021 - PRESENT
-
-**High School Student Council Designer**
-<br/>2020 -  2022
-
-**American Sign Language Club Member**
-<br/>2021 - 2022
-
-**Northeast Philadelphia Chinese 
-Association (NEPCA) of Culture Trust**
-<br/>2018 - 2019
-
-### Awards
-**Dean’s List** | 2022 - PRESENT
-<br/>**Westphal Portfolio Scholarship** 2022 - PRESENT
-<br/>**Brown Scholarship** | 2022 - PRESENT
-<br/>**Dena R. White Scholarship for Creative Writing** | 2021 - 2022
-<br/>**Chinese Culture & Arts Center Awards** 
-2015 - 2019
 ### Experience
-**Jollibee** | Philadelphia, PA
-Crew Member (MAR 2024 - PRESENT)
-- Process cash and credit transactions in a 
-fast-paced, high-volume restaurant 
-setting, and was recognized for a high 
-customer satisfaction rating
-- Engage interpersonal and POS system 
-skills to efficiently assist customers in 
-ordering, and assembling orders 
-
-**Mr. Wish** | Philadelphia, PA
-Barista & Trainer (SEP 2022 - MAY 2024)
-- Oversee and train crew members, and maintain 
-menu items, supplies, and store environment
-- Handle POS systems, online orders, and 
-assembling orders in a timely and swift 
-manner while ensuring customer satisfaction 
+**The Antoinette Westphal College of Media Art** | Philadelphia, PA
+Work Study (JAN 2024 - PRESENT)
+- Designed and produced digital and print materials (e.g., posters, flyer, social media content) for university departments, ensuring alignment with institutional branding and visual guidelines.
 
 **Smart Scribe** | Baldwin, NY
 Youth Tutor (JAN 2022 - JUL 2022)
-- Collaborated with students to complete 
-assignments and identify areas of growth 
-by preparing lesson plans based on the 
-individual students 
-- Motivated students towards learning and 
-studying to build self-confidence and
-reduce fear of failure
+- Collaborated with students to complete assignments while identifying and tailoring lesson plans based on the individual needs
+
 ### Projects
 **Westphal College of Media Arts & Design 
 Instagram Takeover Project**
@@ -121,31 +66,6 @@ Designer (AUG 2023 - JAN 2024)
 - Designed an original work to represent Drexel’s 
 Performing Arts Program, and a sticker design 
 to represent Drexel University.
-
-## IKEA
-**UX Redesign**
-
-Strengthen navigation features and checkout system for IKEA’s mobile app
-<br/>
-<br/>Role: Junior Graphic UX Designer
-<br/>Timeline: 10 weeks
-<br/>Tools: Figma, Illustrator
-
-Overview: IKEA is a multinational company that designs and sells ready-to-assemble furniture, kitchen appliances, and home accessories, among other goods and services. Known for its modernist designs and eco-friendly products, IKEA operates a vast network of stores worldwide, offering customers affordable and functional solutions for home living. 
-
-**The Problem:** 
-- **Graphic Design Aspect:** Regarding the IKEA mobile app, my problem with the app is that its screens and contents are lengthy and cluttered. The overall visual design of the IKEA mobile app feels overwhelming due to the amount of content presented on each screen. The lack of effective whitespace and the dense arrangement of text and images contributes to a cluttered appearance, making it hard for users to focus on key elements.
-- **UI/UX Aspect:** From a user experience perspective, the IKEA mobile app feels unnecessarily complicated due to lengthy screens and an excess of information being crammed into each view. Additionally, the content is not optimally organized, resulting in difficulty locating specific items or information. These factors can led to a potentially overwhelming experience for users.
-
-**The Goal:**
-- My primary goal when redesigning was to enhance the visual organization of the app and reduce some of its clutter. My objective was to optimize the content layout to create a more user-friendly environment, ensuring that users can navigate through the app effortlessly. 
-
-- To achieve this, I focused on removing some categories and information that were unnecessary, and instead grouping them into a broader section. The revised layout aims to streamline information, making it easier for users while maintaining a visually appealing and organized presentation. Through some adjustments to the app's visual hierarchy and content structure, I believe the proposed redesign can significantly improve the overall user experience.
-
-**Reflections:**
-- What I Learned: Being able to spend so much time with Figma, this project and other projects included, made me really comfortable with its features, and in turn, helped me with refining and creating this IKEA redesign. I’m glad that along with creating a process timeline and being able to make our own schedules to hone our independence skills, I was able to have some fun and play more with the animation features of Figma. It was also in this project that I was able to fully understand what components and auto-layouts are meant for and their potential.
-- Changes?: I would change the way my Lo-Fis and sketches look. I know that since they’re a part of the process and brainstorming stage, they aren’t as important but this change is just a personal thing I think I should do better with. I also think that towards the end I ended up having to fix a lot of small details like the spacing, so I think next time, I’ll set up the spacing first so that I won’t have to do it all over again at the end. 
-- All-in-all, this project has taught me many things like smoothen my design process and making me feel more confident with the advanced features of Figma. Other than this, I also had the chance to explore Figma's animation capabilities, which added an engaging, dynamic element to the project. Overall, this redesign project helped me realize the importance of balancing creativity with structured design processes, ensuring that every detail—whether visual or functional—aligns with user-centered principles. 
 
 ## Craigslist
 **Onboarding Flow**
@@ -232,29 +152,3 @@ Overview: With a randomized publication name and article, this project allowed u
 - What I Learned: This project and class heavily inflenced me and taught me a lot on typographic variations and how, with the right balance, it can work well with images, elements, and with the spread itself. Other than this, I was also able to reflect on the fact that when stuck, it always helps to turn to a different medium or method. 
 - Changes?: If I could, I think I would've liked to add more pages to my publication. I feel the article I received was a bit short and with a couple more pages, I would've able to explore/experience more typographic variations and visual language. This and I would've liked to try making a publication with my own media. 
 - Overall, I believe I learned a great deal through this project. On top of this, I am greatly satisfied with the end result of my publication and how it turned out. I believe that while not without flaws, I was able to achieve the goals I had set for myself in the beginning of this project and class. 
-
-## Environmental Type
-**Ocean Pollution & Marine Debris**
-
-Designing a booklet that explores the organization and system of typography in multiple publication formats.
-<br/>
-<br/> Role: Sophmore Graphic Designer
-<br/> Timeline: 4 weeks
-<br/> Tools: InDesign, Illustrator
-
-Overview: Design a booklet that conveys the pricniples of typography while also communicating the topic at hand.
-
-**My Goals:**
-- My primary goal throughout this project was to create a strong sense of urgency that would resonate with viewers. Given that the topics we were tasked with focused on critical climate change issues, I wanted to ensure the messaging felt powerful and immediate. To achieve this, I concentrated on making the typography bold and visually impactful, transforming simple, basic types into something that could command attention. By doing so, I aimed to draw viewers’ eyes directly to the key statements, emphasizing the gravity of the issue at hand. The visual intensity of the text was meant to not only capture attention but also provoke a call to action, reinforcing the urgency of addressing climate change.
-
-**Problems I Encountered:**
-- When in my first stages of designing the booklet, I had problems with emphasizing the text and its sense of urgency. However, through my professor's advice, by adding pull quotes from the text and using the repetition of bold punctuation, I was able to highlight the climate issue's importance. 
-
-**Reflections:**
-- What I Learned: From this project, I was able to further understand the typographical mechanics and design principles. In that sense, I was also able to understand and experiment with a creative range of typographical systems, while also building a strong awareness of the context at hand in order to build my own design concept through typography.
-- Changes?: I'm satisfied with the design placement and visuals of the booklet. I believe I wouldn't want any changes, rather I think additional pages or spreads would have been enjoyable to design. 
-- All-in-all, I am satisfied with the end booklet. Advocating for climate change issues to me is a side passion that I am always eager to learn or talk about. Thus, in a sense this project allowed me to learn more about its issues, how to project them to viewers, and how it could and should be applied to my study.
-
-## Coming Soon
-**Branding Project Coming Soon**
-
