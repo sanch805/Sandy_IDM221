@@ -1,12 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap');
+
 @font-face {
     font-family: 'Be Vietnam Pro';
     src: url('/font/Be_Vietnam_Pro/BeVietnamPro-Medium.ttf') format('truetype');
-    src: url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap');
+    font-weight: normal;
+    font-style: normal;
 }
+
 body {
     margin: 0;
-    font-family: 'Be Vietnam Pro';
-    src: url('/font/Be_Vietnam_Pro/BeVietnamPro-Medium.ttf') format('truetype');
+    font-family: 'Be Vietnam Pro', Arial, sans-serif;
     line-height: 1.6;
 }
 
