@@ -21,8 +21,8 @@ header {
     border-bottom: 1px solid #ccc;
 }
 
-header h1 {
-    font-size: 2.5rem;
+header h1 a{
+    font-size: 4.5rem;
     margin:  30px 0 0;
 }
 
@@ -54,6 +54,11 @@ main h3 {
     margin: 50px 20px 10px;
 }
 
+main h3 a {
+    font-size: 1.2rem;
+    margin: 50px 0 10px;
+}
+
 main p {
     font-size: 0.9rem;
     color: #333;
@@ -79,21 +84,17 @@ footer {
     text-align: center;
     padding: 10px;
     background-color: #f1f1f1;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #ffffff;
 }
 
-footer p {
-    margin:0;
-    font-size: 0.9rem;
-    color: #666;
-}
-
-footer a {
-    text-decoration: none;
-    color: #c58333;
-    margin: 0;
-}
-
-footer a:hover {
-    text-decoration: underline;
+.footer-btn {
+    display: block;
+    text-align: center;
+    background-color: #c58333;
+    color: white;
+    padding: 40px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
 }
