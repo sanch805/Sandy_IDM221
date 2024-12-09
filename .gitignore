@@ -1,8 +1,14 @@
-/photos/
-.media
+# ignore ALL .png files
+*.png
 
-/fonts/
-.font
+# ignore ALL .jpg files
+*.jpg
 
-/css/
-.css
+# ignore ALL .tff files
+*.tff
+
+# ignore ALL .css files
+*.css
+
+# ignore ALL .DS_Store files
+*.DS_Store
